@@ -9,7 +9,7 @@ Below is a selection of key projects I've led or significantly contributed to du
 ### 🚀 Key Projects & Contributions
 
 #### 1. LLM Relations: Knowledge Graph Generation from Scientific Text
-*   **Project Link:** [dieterich-lab/LLM_Relations](https://github.com/dieterich-lab/LLM_Relations)
+*   **Project Link:** [dieterich-lab/LLM_Relations](https://github.com/dieterich-lab/LLM_Relations/tree) (to see my specific contribution, please visit [the subdirectory](https://github.com/dieterich-lab/LLM_Relations/tree/main/llm_extractions) directly)
 *   **My Role:** **Lead Developer & Architect.** I designed and implemented the core framework for using Large Language Models (Mistral, Llama) to extract molecular interaction data and construct a biological relation graph. This involved prompt engineering, developing the data processing pipeline, and setting up the system architecture.
 
 #### 2. RNA/Protein XLNet Framework: Half-Life Regression & Classification
