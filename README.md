@@ -8,22 +8,22 @@ Below is a selection of key projects I've led or significantly contributed to du
 
 ### 🚀 Key Projects & Contributions
 
-#### 1. LLM Relations: Knowledge Graph Generation from Scientific Text
-*   **Project:** `dieterich-lab/LLM_Relations`
-*   **My Role:** **Lead Developer & Architect.** I designed and implemented the core framework for using Large Language Models (Mistral, Llama) to extract molecular interaction data and construct a biological relation graph.
-*   *Note: My specific contribution can be viewed in the project's subdirectories.*
-
-#### 2. RNA/Protein XLNet Framework: Half-Life Regression & Classification
-*   **Project:** [`dieterich-lab/rna_protein_xlnet`](https://github.com/dieterich-lab/rna_protein_xlnet)
-*   **My Role:** **Lead Developer & Maintainer.** I built this framework from the ground up, using XLNet and CNN/LSTM backends in PyTorch, including the integration of XAI methods (SHAP).
-
-#### 3. Saluki CNN: Sequence-based Modeling of RNA Half-life
-*   **Project:** [`dieterich-lab/rna_saluki_cnn`](https://github.com/dieterich-lab/rna_saluki_cnn)
-*   **My Role:** **Core Contributor.** I contributed to the development and optimization of the CNN architecture for regressing RNA half-lives.
-
-#### 4. BioLM Utils: Shared Utilities for Biological Language Models
+#### 1. Architect of `biolm_utils`: A Deep Learning Framework for Bioinformatics
 *   **Project:** [`dieterich-lab/biolm_utils`](https://github.com/dieterich-lab/biolm_utils)
-*   **My Role:** **Creator & Maintainer.** I created this shared library to consolidate common functions and tools, improving code reusability across projects.
+*   **My Role:** **Lead Architect & Developer.** This framework is the heart of our bioinformatics research. I designed and built it from the ground up to be a modular and extensible engine for deep learning on biological sequences. It handles the entire ML lifecycle, including data processing, model training, prediction, and Explainable AI (XAI) integration.
+
+#### 2. Application: `rna_protein_xlnet` (Transformer-based Modeling)
+*   **Project:** [`dieterich-lab/rna_protein_xlnet`](https://github.com/dieterich-lab/rna_protein_xlnet)
+*   **My Role:** **Lead Developer.** This project is a key application built on top of the `biolm_utils` framework. I demonstrated the framework's power by integrating a state-of-the-art Transformer model (XLNet) as a plugin to accurately predict RNA and protein half-lives from sequence data.
+
+#### 3. Application: `rna_saluki_cnn` (CNN-based Modeling)
+*   **Project:** [`dieterich-lab/rna_saluki_cnn`](https://github.com/dieterich-lab/rna_saluki_cnn)
+*   **My Role:** **Core Contributor.** In this project, we showcased the framework's flexibility by implementing a custom, lightweight CNN architecture (Saluki) as another model plugin, applying it to the same sequence-to-outcome task.
+
+#### 4. LLM Relations: Knowledge Graph Generation from Scientific Text
+*   **Project:** `dieterich-lab/LLM_Relations`
+*   **My Role:** **Lead Developer & Architect.** Separate from the bioinformatics framework, I designed and implemented this system for using Large Language Models (Mistral, Llama) to extract molecular interaction data and construct a biological relation graph.
+*   *Note: My specific contribution can be viewed in the project's subdirectories.*
 
 ---
 
