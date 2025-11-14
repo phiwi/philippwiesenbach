@@ -35,6 +35,17 @@ Below is a selection of key projects I've led or significantly contributed to du
 
 ---
 
+### 📚 Lectures & Teaching
+
+#### Graph Neural Networks in Modern Medicine
+*   **Date:** November 13, 2025
+*   **Audience:** Master's students in Medical Informatics
+*   **Duration:** 90 minutes
+*   **Topic:** Introduction to Graph Neural Networks, exploring their applications from molecular interactions to patient outcomes in biomedical research.
+*   **Slides:** [View Presentation](https://phiwi.github.io/graphnn_lecture/)
+
+---
+
 ### 🛠️ My Tech Stack
 
 *   **Languages:** Python, Bash, Cypher, Java
