@@ -1,3 +1,15 @@
+---
+
+> **Notice:**
+> The latest, actively developed versions of my main bioinformatics projects are on their respective `2.0` branches:
+> - [biolm_utils: biolm-2.0 branch](https://github.com/dieterich-lab/biolm_utils/tree/biolm-2.0)
+> - [rna_protein_xlnet: xlnet-2.0 branch](https://github.com/dieterich-lab/rna_protein_xlnet/tree/xlnet-2.0)
+> - [rna_saluki_cnn: saluki-2.0 branch](https://github.com/dieterich-lab/rna_saluki_cnn/tree/saluki-2.0)
+>
+> The `main` branches are legacy. Please check out the `2.0` branches for the newest features, code, and documentation.
+
+---
+
 ### Hi there, I'm Philipp 👋
 
 I'm an AI Scientist specializing in Generative AI and Natural Language Processing. My passion is building intelligent systems that can decipher complex, human-generated data – from ancient languages to modern clinical records.
@@ -54,4 +66,4 @@ Below is a selection of key projects I've led or significantly contributed to du
 
 ---
 
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="'linkedin'" width="40"/>](https://www.linkedin.com/in/philipp-wiesenb/)   [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="google scholar" width="40"/>](https://scholar.google.de/citations?user=zdNEDqgAAAAJ&hl=de)    [<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="hugging face" width="40"/>](https://huggingface.co/phiwi) 
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="'linkedin'" width="40"/>](https://www.linkedin.com/in/philipp-wiesenb/)   [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="google scholar" width="40"/>](https://scholar.google.de/citations?user=zdNEDqgAAAAJ&hl=de)    [<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="hugging face" width="40"/>](https://huggingface.co/phiwi)
