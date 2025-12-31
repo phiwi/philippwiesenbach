@@ -1,12 +1,10 @@
----
-
 > **Notice:**
-> The latest, actively developed versions of my main bioinformatics projects are on their respective `2.0` branches:
-> - [biolm_utils: biolm-2.0 branch](https://github.com/dieterich-lab/biolm_utils/tree/biolm-2.0)
-> - [rna_protein_xlnet: xlnet-2.0 branch](https://github.com/dieterich-lab/rna_protein_xlnet/tree/xlnet-2.0)
-> - [rna_saluki_cnn: saluki-2.0 branch](https://github.com/dieterich-lab/rna_saluki_cnn/tree/saluki-2.0)
->
-> The `main` branches are legacy. Please check out the `2.0` branches for the newest features, code, and documentation.
+The latest, actively developed versions of my main bioinformatics projects are on their respective `2.0` branches:
+- [biolm_utils: biolm-2.0 branch](https://github.com/dieterich-lab/biolm_utils/tree/biolm-2.0)
+- [rna_protein_xlnet: xlnet-2.0 branch](https://github.com/dieterich-lab/rna_protein_xlnet/tree/xlnet-2.0)
+- [rna_saluki_cnn: saluki-2.0 branch](https://github.com/dieterich-lab/rna_saluki_cnn/tree/saluki-2.0)
+
+The `main` branches are legacy. Please check out the `2.0` branches for the newest features, code, and documentation.
 
 ---
 
