@@ -1,16 +1,17 @@
-> **Notice:**
-The latest, actively developed versions of my main bioinformatics projects are on their respective `2.0` branches:
-- [biolm_utils: biolm-2.0 branch](https://github.com/dieterich-lab/biolm_utils/tree/biolm-2.0)
-- [rna_protein_xlnet: xlnet-2.0 branch](https://github.com/dieterich-lab/rna_protein_xlnet/tree/xlnet-2.0)
-- [rna_saluki_cnn: saluki-2.0 branch](https://github.com/dieterich-lab/rna_saluki_cnn/tree/saluki-2.0)
-
-The `main` branches are legacy. Please check out the `2.0` branches for the newest features, code, and documentation.
-
----
-
 ### Hi there, I'm Philipp 👋
 
-I'm an AI Scientist specializing in Generative AI and Natural Language Processing. My passion is building intelligent systems that can decipher complex, human-generated data – from ancient languages to modern clinical records.
+AI Scientist focusing on Generative AI and NLP, building systems that decipher complex human data — from ancient languages to modern clinical records. Contact: philipp.wiesenbach@gmail.com · [LinkedIn](https://www.linkedin.com/in/philipp-wiesenb/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philipp-wiesenb/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-555555?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.de/citations?user=zdNEDqgAAAAJ&hl=de)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFDF00?style=flat&logo=huggingface&logoColor=black)](https://huggingface.co/phiwi)
+
+> **Notice:** Active development is on the `2.0` branches: [biolm_utils](https://github.com/dieterich-lab/biolm_utils/tree/biolm-2.0), [rna_protein_xlnet](https://github.com/dieterich-lab/rna_protein_xlnet/tree/xlnet-2.0), [rna_saluki_cnn](https://github.com/dieterich-lab/rna_saluki_cnn/tree/saluki-2.0). `main` branches are legacy.
+
+**Recent highlights**
+- BertGCN: interpretable clinical/precedent-aware text classification with BERT + GCN
+- LLM_Relations: LLM-based molecular interaction extraction → biological relation graph
+- biolm_utils: modular bioinformatics DL platform (training, inference, XAI)
 
 Below is a selection of key projects I've led or significantly contributed to during my time at the Klaus-Tschira-Institute (Dieterich Lab).
 
@@ -20,25 +21,35 @@ Below is a selection of key projects I've led or significantly contributed to du
 
 #### 1. Architect of `biolm_utils`: A Deep Learning Framework for Bioinformatics
 *   **Project:** [`dieterich-lab/biolm_utils`](https://github.com/dieterich-lab/biolm_utils)
-*   **My Role:** **Lead Architect & Developer.** This framework is the heart of our bioinformatics research. I designed and built it from the ground up to be a modular and extensible engine for deep learning on biological sequences. It handles the entire ML lifecycle, including data processing, model training, prediction, and Explainable AI (XAI) integration.
+*   **Role:** Lead Architect & Developer
+*   **Tech:** Python, PyTorch, Hydra, Hugging Face, XAI
+*   **Impact:** (add metrics/outcomes here)
 
 #### 2. Application: `rna_protein_xlnet` (Transformer-based Modeling)
 *   **Project:** [`dieterich-lab/rna_protein_xlnet`](https://github.com/dieterich-lab/rna_protein_xlnet)
-*   **My Role:** **Lead Developer.** This project is a key application built on top of the `biolm_utils` framework. I demonstrated the framework's power by integrating a state-of-the-art Transformer model (XLNet) as a plugin to accurately predict RNA and protein half-lives from sequence data.
+*   **Role:** Lead Developer
+*   **Tech:** XLNet, PyTorch, biolm_utils plugins
+*   **Impact:** (add metrics/outcomes here)
 
 #### 3. Application: `rna_saluki_cnn` (CNN-based Modeling)
 *   **Project:** [`dieterich-lab/rna_saluki_cnn`](https://github.com/dieterich-lab/rna_saluki_cnn)
-*   **My Role:** **Core Contributor.** In this project, we showcased the framework's flexibility by implementing a custom, lightweight CNN architecture (Saluki) as another model plugin, applying it to the same sequence-to-outcome task.
+*   **Role:** Core Contributor
+*   **Tech:** Custom CNN (Saluki), PyTorch, biolm_utils plugins
+*   **Impact:** (add metrics/outcomes here)
 *   **Citation:** Agarwal, V., & Kelley, D. (2022). The genetic and biochemical determinants of mRNA degradation rates in mammals. bioRxiv.
 
 #### 4. LLM Relations: Knowledge Graph Generation from Scientific Text
 *   **Project:** [`dieterich-lab/LLM_Relations`](https://github.com/dieterich-lab/LLM_Relations)
-*   **My Role:** **Lead Developer & Architect.** Separate from the bioinformatics framework, I designed and implemented this system for using Large Language Models (Mistral, Llama) to extract molecular interaction data and construct a biological relation graph.
-*   *Note: My specific contribution can be viewed in the project's [subdirectories](https://github.com/dieterich-lab/LLM_Relations/tree/main/llm_extractions).*
+*   **Role:** Lead Developer & Architect
+*   **Tech:** Mistral/Llama, extraction pipelines, graph construction
+*   **Impact:** (add metrics/outcomes here)
+*   *Specific contributions:* [llm_extractions](https://github.com/dieterich-lab/LLM_Relations/tree/main/llm_extractions)
 
 #### 5. BertGCN: Graph Neural Networks with Document-Level Interpretability for Precedents Detection
 *   **Project:** [`dieterich-lab/BertGCN`](https://github.com/dieterich-lab/BertGCN)
-*   **My Role:** **Lead Developer.** This is a re-implementation and major extension of the BertGCN model [Lin et al., 2021]. Originally adapted for clinical text classification, I have significantly enhanced it by adding advanced document-level interpretability capabilities. The system now identifies influential documents (precedents) that contribute to predictions, enabling transparent, precedent-aware decision-making in legal, medical, and regulatory domains. We combine BERT embeddings with Graph Convolutional Networks to improve classification performance on medical indication data, now with groundbreaking explainability features.
+*   **Role:** Lead Developer
+*   **Tech:** BERT, GCN, PyTorch Geometric, Hydra, MLflow
+*   **Impact:** (add metrics/outcomes here)
 *   **Citation:** Lin, Y., Meng, Y., Sun, X., Han, Q., Kuang, K., Li, J., & Wu, F. (2021). BertGCN: Transductive Text Classification by Combining GCN and BERT. arXiv preprint arXiv:2105.05727.
 *   **Note:** This implementation uses confidential clinical data. No training data or trained models are publicly shared to maintain patient privacy and data security.
 
@@ -68,7 +79,3 @@ Below is a selection of key projects I've led or significantly contributed to du
 *   **Languages:** Python, Bash, Cypher, Java
 *   **AI/ML:** PyTorch, Huggingface, Langchain, LlamaIndex, Scikit-Learn, Spacy
 *   **Infrastructure & Data:** Docker, Git, HPC/Slurm, Neo4j, FAISS, MongoDB
-
----
-
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="'linkedin'" width="40"/>](https://www.linkedin.com/in/philipp-wiesenb/)   [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg" alt="google scholar" width="40"/>](https://scholar.google.de/citations?user=zdNEDqgAAAAJ&hl=de)    [<img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="hugging face" width="40"/>](https://huggingface.co/phiwi)
