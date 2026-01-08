@@ -29,6 +29,7 @@ Below is a selection of key projects I've led or significantly contributed to du
 #### 3. Application: `rna_saluki_cnn` (CNN-based Modeling)
 *   **Project:** [`dieterich-lab/rna_saluki_cnn`](https://github.com/dieterich-lab/rna_saluki_cnn)
 *   **My Role:** **Core Contributor.** In this project, we showcased the framework's flexibility by implementing a custom, lightweight CNN architecture (Saluki) as another model plugin, applying it to the same sequence-to-outcome task.
+*   **Citation:** Agarwal, V., & Kelley, D. (2022). The genetic and biochemical determinants of mRNA degradation rates in mammals. bioRxiv.
 
 #### 4. LLM Relations: Knowledge Graph Generation from Scientific Text
 *   **Project:** [`dieterich-lab/LLM_Relations`](https://github.com/dieterich-lab/LLM_Relations)
