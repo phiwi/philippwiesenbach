@@ -1,6 +1,6 @@
 ### Hi there, I'm Philipp 👋
 
-AI Scientist focusing on Generative AI and NLP, building systems that decipher complex human data — from ancient languages to modern clinical records. Contact: philipp.wiesenbach@gmail.com · [LinkedIn](https://www.linkedin.com/in/philipp-wiesenb/)
+AI Scientist focusing on Generative AI and NLP, building systems that decipher complex human data — from ancient languages to modern clinical records. Contact: philipp.wiesenbach@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philipp-wiesenb/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-555555?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.de/citations?user=zdNEDqgAAAAJ&hl=de)
