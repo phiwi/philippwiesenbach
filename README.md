@@ -23,33 +23,28 @@ Below is a selection of key projects I've led or significantly contributed to du
 *   **Project:** [`dieterich-lab/biolm_utils`](https://github.com/dieterich-lab/biolm_utils)
 *   **Role:** Lead Architect & Developer
 *   **Tech:** Python, PyTorch, Hydra, Hugging Face, XAI
-*   **Impact:** (add metrics/outcomes here)
 
 #### 2. Application: `rna_protein_xlnet` (Transformer-based Modeling)
 *   **Project:** [`dieterich-lab/rna_protein_xlnet`](https://github.com/dieterich-lab/rna_protein_xlnet)
 *   **Role:** Lead Developer
 *   **Tech:** XLNet, PyTorch, biolm_utils plugins
-*   **Impact:** (add metrics/outcomes here)
 
 #### 3. Application: `rna_saluki_cnn` (CNN-based Modeling)
 *   **Project:** [`dieterich-lab/rna_saluki_cnn`](https://github.com/dieterich-lab/rna_saluki_cnn)
 *   **Role:** Core Contributor
 *   **Tech:** Custom CNN (Saluki), PyTorch, biolm_utils plugins
-*   **Impact:** (add metrics/outcomes here)
 *   **Citation:** Agarwal, V., & Kelley, D. (2022). The genetic and biochemical determinants of mRNA degradation rates in mammals. bioRxiv.
 
 #### 4. LLM Relations: Knowledge Graph Generation from Scientific Text
 *   **Project:** [`dieterich-lab/LLM_Relations`](https://github.com/dieterich-lab/LLM_Relations)
 *   **Role:** Lead Developer & Architect
 *   **Tech:** Mistral/Llama, extraction pipelines, graph construction
-*   **Impact:** (add metrics/outcomes here)
 *   *Specific contributions:* [llm_extractions](https://github.com/dieterich-lab/LLM_Relations/tree/main/llm_extractions)
 
 #### 5. BertGCN: Graph Neural Networks with Document-Level Interpretability for Precedents Detection
 *   **Project:** [`dieterich-lab/BertGCN`](https://github.com/dieterich-lab/BertGCN)
 *   **Role:** Lead Developer
 *   **Tech:** BERT, GCN, PyTorch Geometric, Hydra, MLflow
-*   **Impact:** (add metrics/outcomes here)
 *   **Citation:** Lin, Y., Meng, Y., Sun, X., Han, Q., Kuang, K., Li, J., & Wu, F. (2021). BertGCN: Transductive Text Classification by Combining GCN and BERT. arXiv preprint arXiv:2105.05727.
 *   **Note:** This implementation uses confidential clinical data. No training data or trained models are publicly shared to maintain patient privacy and data security.
 
