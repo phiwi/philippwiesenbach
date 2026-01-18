@@ -48,6 +48,13 @@ Below is a selection of key projects I've led or significantly contributed to du
 *   **Citation:** Lin, Y., Meng, Y., Sun, X., Han, Q., Kuang, K., Li, J., & Wu, F. (2021). BertGCN: Transductive Text Classification by Combining GCN and BERT. arXiv preprint arXiv:2105.05727.
 *   **Note:** This implementation uses confidential clinical data. No training data or trained models are publicly shared to maintain patient privacy and data security.
 
+#### 6. CardioGuidelinesGraph: Knowledge Graph Construction from German Cardiovascular Guidelines
+*   **Project:** [`phiwi/CardioGuidelinesGraph`](https://github.com/phiwi/CardioGuidelinesGraph)
+*   **Role:** Lead Developer & Architect
+*   **Tech:** Python, Neo4j, SNOMED CT, scispaCy, Ollama LLMs, Docling, BAML
+*   **Uniqueness:** Pioneering approach to transform German medical guidelines into standardized, queryable knowledge graphs. Combines advanced PDF processing, biomedical NLP, and ontology engineering to create the first comprehensive KG for cardiovascular care in German, enabling semantic search, automated reasoning, and RAG applications for clinical decision support.
+*   **Key Innovation:** Integrates SNOMED CT terminology with LLM-powered concept categorization, extracting 21,000+ medical concepts from guidelines while preserving complex clinical relationships and evidence-based recommendations.
+
 ---
 
 ### 🌍 Community & Open Source Contributions
