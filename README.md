@@ -45,6 +45,8 @@ Below is a selection of key projects I've led or significantly contributed to du
 *   **Project:** [`dieterich-lab/BertGCN`](https://github.com/dieterich-lab/BertGCN)
 *   **Role:** Lead Developer
 *   **Tech:** BERT, GCN, PyTorch Geometric, Hydra, MLflow
+*   **Uniqueness:** Interpretable text classification framework that integrates BERT's contextual embeddings with graph convolutional networks to model document relationships, enabling precedent-aware classification in clinical settings.
+*   **Key Innovation:** Novel combination of BERT and GCN for transductive learning on text graphs constructed with PMI and TF-IDF edge weighting, providing document-level interpretability for clinical decision-making.
 *   **Citation:** Lin, Y., Meng, Y., Sun, X., Han, Q., Kuang, K., Li, J., & Wu, F. (2021). BertGCN: Transductive Text Classification by Combining GCN and BERT. arXiv preprint arXiv:2105.05727.
 *   **Note:** This implementation uses confidential clinical data. No training data or trained models are publicly shared to maintain patient privacy and data security.
 
