@@ -49,7 +49,7 @@ Below is a selection of key projects I've led or significantly contributed to du
 *   **Note:** This implementation uses confidential clinical data. No training data or trained models are publicly shared to maintain patient privacy and data security.
 
 #### 6. CardioGuidelinesGraph: Knowledge Graph Construction from German Cardiovascular Guidelines
-*   **Project:** [`phiwi/CardioGuidelinesGraph`](https://github.com/phiwi/CardioGuidelinesGraph)
+*   **Project:** [`dieterich-lab/CardioGuidelinesGraph`](https://github.com/dieterich-lab/CardioGuidelinesGraph)
 *   **Role:** Lead Developer & Architect
 *   **Tech:** Python, Neo4j, SNOMED CT, scispaCy, Ollama LLMs, Docling, BAML
 *   **Uniqueness:** Pioneering approach to transform German medical guidelines into standardized, queryable knowledge graphs. Combines advanced PDF processing, biomedical NLP, and ontology engineering to create the first comprehensive KG for cardiovascular care in German, enabling semantic search, automated reasoning, and RAG applications for clinical decision support.
