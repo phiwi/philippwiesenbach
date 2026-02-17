@@ -76,6 +76,12 @@ Below is a selection of key projects I've led or significantly contributed to du
 *   **Topic:** Introduction to Graph Neural Networks, exploring their applications from molecular interactions to patient outcomes in biomedical research.
 *   **Slides:** [View Presentation](https://phiwi.github.io/graphnn_lecture/)
 
+#### Clinical Turing Test: Seminar on AI in Medicine
+*   **Date:** Planned 2026
+*   **Audience:** Medical and Medical Informatics students
+*   **Topic:** Exploring the boundaries of AI in clinical reasoning and diagnosis through interactive discussion and case studies. Inspired by the classic Turing Test, this seminar examines how AI systems perform in real-world clinical scenarios.
+*   **Slides:** [Clinical Turing Test Presentation](https://github.com/philippwiesenb/clinical-turing-test)
+
 ---
 
 ### 🛠️ My Tech Stack
