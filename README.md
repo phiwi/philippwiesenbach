@@ -80,7 +80,7 @@ Below is a selection of key projects I've led or significantly contributed to du
 *   **Date:** Planned 2026
 *   **Audience:** Medical and Medical Informatics students
 *   **Topic:** Exploring the boundaries of AI in clinical reasoning and diagnosis through interactive discussion and case studies. Inspired by the classic Turing Test, this seminar examines how AI systems perform in real-world clinical scenarios.
-*   **Slides:** [Clinical Turing Test Presentation](https://github.com/philippwiesenb/clinical-turing-test)
+*   **Slides:** [Clinical Turing Test Presentation](https://phiwi.github.io/clinical-turing-test)
 
 ---
 
